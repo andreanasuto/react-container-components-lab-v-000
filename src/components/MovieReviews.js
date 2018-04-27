@@ -6,4 +6,5 @@ class MovieReviews extends React.Component {
 
   }
 }
+
 export default MovieReviews;
