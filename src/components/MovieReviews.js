@@ -1,7 +1,7 @@
 // Code MovieReviews Here
 import React from 'react'
 
-class MovieReviews extends React.component {
+class MovieReviews extends React.Component {
   constructor() {
 
   }
